@@ -55,3 +55,5 @@ var userNames: [String] = allUsers.map { user in
 var userNames2: [String] = allUsers.map({ $0.name })
 
 print(userNames)
+
+// Trying things
